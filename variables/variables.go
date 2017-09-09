@@ -1,3 +1,5 @@
+// In Go, variables are explictly declared and used by the compiler e.g.
+// check-type-correctness of function calls
 package main
 
 import "fmt"

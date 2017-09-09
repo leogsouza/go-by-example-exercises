@@ -1,3 +1,4 @@
+// Our first program will print the classic "Hello world" message
 package main
 
 import "fmt"
